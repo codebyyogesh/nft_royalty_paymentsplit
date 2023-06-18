@@ -1,0 +1,31 @@
+.button {
+  cursor: pointer;
+  border: 1px solid #1a202c;
+  padding: 8px;
+  min-width: 64px;
+  color: White;
+  background-color: blueviolet;
+  transition: all 0.1s ease-in;
+  align-items: center;
+  font-size: 16px;
+  font-weight: 500;
+  text-align: center;
+  font-weight: bold;
+  margin-top: 300px;
+  margin-right:50px;
+  margin-left :300px
+}
+
+.button:hover {
+  background: #1a202c;
+  color: wheat;
+}
+
+.button2 {
+  font-size: 36px;
+  padding: 16px;
+  border-radius: 16px;
+  background-color: blueviolet;
+  color: wheat;
+  font-weight: bold;
+}

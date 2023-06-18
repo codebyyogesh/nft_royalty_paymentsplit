@@ -1,0 +1,25 @@
+{
+    "ropstenNodeEndpoint": "https://eth-ropsten.alchemyapi.io/v2/",
+    "forkmainnetNodeEndpoint":"https://eth-mainnet.alchemyapi.io/v2/",
+    "rinkebyNodeEndPoint":"https://eth-rinkeby.alchemyapi.io/v2/",
+
+    "PrivateKey1": "",
+    "PrivateKey2": "",
+    "PrivateKey3": "",
+
+    "mainnetEtherscanApi":"",
+    "rinkebyEtherscanApi":"",
+    "ropstenEtherscanApi":"",
+
+
+    "name"    : "NFThing",
+    "symbol"  : "NT",
+    "baseuri" : "ipfs://QmXfkPA62p1d6dcibtUMP43JkrT8ttptKFMVK4wAPP928E/",
+
+    "payAddr":      ["",
+                     ""],
+    "sharePercent": ["30",
+                     "70"] 
+
+}
+
